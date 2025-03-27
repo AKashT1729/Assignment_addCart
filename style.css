@@ -8,3 +8,15 @@ body{
     background-color: #f1f1f1;
     padding: 20px;
 }
+.container{
+    background-color: #fff;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    width: 400px;
+    margin: auto;
+}
+h3{
+    text-align: center;
+    color: #f06f7a;
+}
