@@ -20,3 +20,19 @@ h3{
     text-align: center;
     color: #f06f7a;
 }
+.product-option{
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px 0;
+}
+.input{
+    margin: 0;
+}
+
+.discount{
+    color: #fff;
+    margin-left: 10px;
+    padding: 0 4px;
+    background-color: #f06f7a;
+}
